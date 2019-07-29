@@ -1,0 +1,5 @@
+.form-control.search-box{
+    display: inline-block;
+    width:calc(100% - 36px);
+    float: left;
+}
